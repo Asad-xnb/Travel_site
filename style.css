@@ -1,6 +1,6 @@
 #hero {
     height: 630px;
-    background-image: url("/Section7:/Day15/Travel_page/images/places/ocean.jpg");
+    background-image: url("images/places/ocean.jpg");
     background-position: center;
     background-size: cover;
 }
